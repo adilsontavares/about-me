@@ -1,0 +1,34 @@
+[
+    {
+        "context": "talking",
+        "texts": [
+            "Olá"
+        ]
+    },
+    {
+        "context": "story",
+        "frames": [
+            {
+                "image": "welcome",
+                "text": "Olá"
+            },
+            {
+                "image": "dog",
+                "text": "O que achou da imagem deste cachorro? Legal né?"
+            },
+            {
+                "image": "done",
+                "text": "Era só isso, valeu! 😉"
+            }
+        ]
+    },
+    {
+        "context": "slideshow",
+        "images-prefix": "perdigao",
+        "texts": [
+            "Este é o Perdigão, um cachorro feliz",
+            "(e um pouco assustado)",
+            "Agora vou colocar um texto bem legal, demorado e comprido. Só para ver como o layout vai quebrar."
+        ]
+    }
+]
